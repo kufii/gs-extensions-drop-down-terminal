@@ -1,11 +1,10 @@
 # gs-extensions-drop-down-terminal
----
 
 Drop Down Terminal extension for the Gnome Shell
 
+---
 
 ## Screenshots
----
 
 ### Terminal
 ![Terminal](https://github.com/zzrough/gs-extensions-drop-down-terminal/raw/master/screenshot-term.png)
@@ -14,27 +13,31 @@ Drop Down Terminal extension for the Gnome Shell
 ![Preferences](https://github.com/zzrough/gs-extensions-drop-down-terminal/raw/master/screenshot-prefs-1.png)
 ![Preferences](https://github.com/zzrough/gs-extensions-drop-down-terminal/raw/master/screenshot-prefs-2.png)
 
-## Additional shortcuts
 ---
+
+## Additional shortcuts
 
 On top of the main shortcut to display/hide the terminal, there are additional shortcuts that can not be changed:
 
-- `Ctrl`+`Shift`+`C`: copy
-- `Ctrl`+`Shift`+`V`: paste
+- `Ctrl+Shift+C`: copy
+- `Ctrl+Shift+V`: paste
+
+---
 
 ### Additional configuration and tips
----
 
 See the wiki [for more configuration and tips](https://github.com/zzrough/gs-extensions-drop-down-terminal/wiki).
 
-### Bug reporting
 ---
+
+### Bug reporting
 
 Use the [Github issue tracker](https://github.com/zzrough/gs-extensions-drop-down-terminal/issues) to report issues
 or ask for features **matching the vision** of this extension, in the next paragraph.
 
-### Vision
 ---
+
+### Vision
 
 I want a terminal that fits in the gnome-shell spirit: elegant, fast, simple, straight to the point.
 
@@ -51,3 +54,5 @@ complements this extension quite well. But it will not impact regular users with
 slick by default.
 
 As a side note, a lot of things can **not** be done with bindings and thus extensions.
+
+---
